@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Siddhartha Roy
+# Hi there! 👋 I'm Siddhant Roy
 
 ## 🚀 About Me
 
