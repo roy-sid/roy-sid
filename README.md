@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Siddhant Roy
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Backend+Engineer+%E2%9A%99%EF%B8%8F;Gintama+"&#10084" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Backend+Engineer+%E2%9A%99%EF%B8%8F;Gintama+Fan+%F0%9F%8D%9C" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -35,14 +35,8 @@ I'm a B.Tech ECE student with a Minor in AI & ML from JIIT Noida, passionate abo
 
 ### Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,docker&theme=dark" alt="Tools" />
-<img src="https://img.shields.io/badge/YOLO-00D4AA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgOFYxNkwxMiAyMkwyIDEyVjhMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMiA4TDE4IDEyTDEyIDE2TDYgMTJMMTIgOFoiIGZpbGw9IiMwMEQ0QUEiLz4KPHN2Zz4=&logoColor=white" alt="YOLO" />
 
 </div>
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 
 ## 🔥 Featured Projects
 
@@ -125,10 +119,3 @@ I'm a B.Tech ECE student with a Minor in AI & ML from JIIT Noida, passionate abo
 </div>
 
 <div align="center">
-  
-```
-"My debugging strategy? Panic, memes, and a little bit of samurai spirit"
-                                          
-```
-  
-</div>
