@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Siddhartha Roy
+# Yo! 🤟 I'm Siddhant Roy
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Backend+Engineer+%E2%9A%99%EF%B8%8F;Gintama+Fan+%F0%9F%8D%9C" alt="Typing SVG" />
