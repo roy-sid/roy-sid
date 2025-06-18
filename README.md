@@ -87,4 +87,3 @@
 <p align="center">
   <img src="https://media.tenor.com/YdcZLrQQEDoAAAAC/gintama-gintoki.gif" width="220" />
 </p>
-
