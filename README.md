@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Siddhant Roy
+# Yoo👋 I'm Siddhant Roy
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Backend+Engineer+%E2%9A%99%EF%B8%8F;Gintama+Fan+%F0%9F%8D%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Backend+Engineer+%E2%9A%99%EF%B8%8F;Gintama+❤️" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -68,8 +68,8 @@ I'm a B.Tech ECE student with a Minor in AI & ML from JIIT Noida, passionate abo
 
 <div align="center">
   
-  <!-- Streak Stats -->
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=roy-sid&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <!-- Streak Stats with updated URL -->
+  <img src="https://streak-stats.demolab.com?user=roy-sid&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
 </div>
 
