@@ -1,7 +1,7 @@
-# Yo! 🤟 I'm Siddhant Roy
+# Hi there! 👋 I'm Siddhant Roy
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Backend+Engineer+%E2%9A%99%EF%B8%8F;Gintama+Fan+%F0%9F%8D%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Backend+Engineer+%E2%9A%99%EF%B8%8F;Gintama+"&#10084" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,25 +25,18 @@ I'm a B.Tech ECE student with a Minor in AI & ML from JIIT Noida, passionate abo
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</div>
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,js,cpp&theme=dark" alt="Languages" />
 
 ### AI/ML & Computer Vision
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLO-00D4AA?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO" />
-</div>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML" />
 
 ### Tools & Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=git,docker&theme=dark" alt="Tools" />
+<img src="https://img.shields.io/badge/YOLO-00D4AA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgOFYxNkwxMiAyMkwyIDEyVjhMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMiA4TDE4IDEyTDEyIDE2TDYgMTJMMTIgOFoiIGZpbGw9IiMwMEQ0QUEiLz4KPHN2Zz4=&logoColor=white" alt="YOLO" />
+
 </div>
 
 ### Tools & Technologies
@@ -77,17 +70,21 @@ I'm a B.Tech ECE student with a Minor in AI & ML from JIIT Noida, passionate abo
   
 </div>
 
+<br/>
+
 <div align="center">
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roy-sid&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=roy-sid&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
 </div>
+
+<br/>
 
 <div align="center">
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roy-sid&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=roy-sid&theme=tokyo-night&hide_border=true&area=true" />
   
 </div>
 
@@ -113,27 +110,10 @@ I'm a B.Tech ECE student with a Minor in AI & ML from JIIT Noida, passionate abo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/siddhant-roy-6602b0213/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:roysiddhant2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/siddhant_roy_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/siddhant-roy-6602b0213/" target="_blank">
-    <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn Profile" />
-  </a>
-  <a href="mailto:roysiddhant2003@gmail.com">
-    <img src="https://img.shields.io/badge/-Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/siddhant_roy_/" target="_blank">
-    <img src="https://img.shields.io/badge/-Follow_on_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&logoWidth=20" alt="Instagram Profile" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
   </a>
 </div>
 
@@ -147,8 +127,8 @@ I'm a B.Tech ECE student with a Minor in AI & ML from JIIT Noida, passionate abo
 <div align="center">
   
 ```
-"Code is like sugar... it makes everything better, just like Gintoki's strawberry milk!"
-                                          - Probably what Gintoki would say if he coded
+"My debugging strategy? Panic, memes, and a little bit of samurai spirit"
+                                          
 ```
   
 </div>
