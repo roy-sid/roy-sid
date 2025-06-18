@@ -1,89 +1,96 @@
+# Hi there! 👋 I'm Siddhant Roy
 
-<h1 align="center">✨ YOROZUYA SID ✨</h1>
-<p align="center">
-  <img src="https://media.tenor.com/kZKoE8ZpWj4AAAAC/gintoki-gintama.gif" width="200" alt="Gintoki Sakata">
-</p>
+## 🚀 About Me
 
-<p align="center">
-  <b>AI & ML Enthusiast | Deepfake Explorer | Backend Developer</b><br>
-  <i>Just a regular guy trying to make tech as fun as Shinpachi's rants and as impactful as Gintoki's punchlines.</i>
-</p>
+**AI & ML Enthusiast | Computer Vision Developer | Backend Engineer**
 
-<p align="center">
-  <a href="mailto:roysiddhant2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-roysiddhant2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/siddhant-roy-6602b0213/"><img src="https://img.shields.io/badge/LinkedIn-Siddhant%20Roy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/roy-sid"><img src="https://img.shields.io/badge/GitHub-roy--sid-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+I'm a B.Tech ECE student with a Minor in AI & ML from JIIT Noida, passionate about building intelligent systems that solve real-world problems. Currently exploring the fascinating intersection of computer vision, generative models, and backend development.
+
+> *"Building technology that's as reliable as it is innovative"*
+
+## 🎯 What I Do
+
+- 🤖 **Computer Vision**: Object detection, facial recognition, and image processing
+- 🧠 **Machine Learning**: Custom model development and deep learning architectures
+- ⚙️ **Backend Development**: API design and system architecture
+- 🎵 **Beyond Tech**: Leading Fortissimo (Music Society) because creativity fuels innovation
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### AI/ML & Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🔥 Featured Projects
+
+### 🛒 [Smart Grocery Scanner](link-to-repo)
+**Real-time object detection system for automated billing**
+- **Tech Stack**: YOLOv5, OpenCV, Python, CSV Processing
+- **Features**: Live video object detection, automated bill generation, product-price matching
+- **Impact**: Streamlines grocery checkout process with computer vision
+- 📊 **Performance**: Real-time detection with frame-wise overlays
+
+### 🎭 [DeepFace: Generation & Detection Suite](link-to-repo)
+**Complete deepfake pipeline with custom GAN and detection system**
+- **Tech Stack**: Custom GAN, MediaPipe, CNN, Delaunay Triangulation
+- **Features**: Facial mapping, seamless face swapping, deepfake detection
+- **Innovation**: Built from scratch without StyleGAN dependencies
+- 🛡️ **Security**: Hybrid dataset trained detector for authenticity verification
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roy-sid&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-sid&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roy-sid&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🎯 Current Focus
+
+- 🔬 **Exploring**: Advanced generative models and their applications
+- 🚀 **Building**: More end-to-end ML systems with production deployment
+- 📚 **Learning**: Cloud architectures and MLOps practices
+- 🤝 **Contributing**: Open-source computer vision projects
+
+## 🌟 Fun Facts
+
+- 🎼 Music society leader who codes to Lo-fi beats
+- 🍜 Anime enthusiast (Gintama references are my specialty)
+- 🎯 Believer that good code is like good music - it has rhythm and flow
+- 🌙 Night owl developer (best debugging happens at 2 AM)
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+
+</div>
 
 ---
 
-## 💪 About Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=roy-sid&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
 
-- 🎓 B.Tech in ECE (Minor in AI & ML) @ JIIT Noida
-- 🤖 Passionate about computer vision, backend development & generative models
-- 🔧 Building things that (mostly) don't explode like Sadaharu's mood swings
-- 🎧 Music lover & lead of Fortissimo (Music Society)
-
----
-
-## 🚀 Tech Stack
-
-### 👨‍💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### 🔬 Libraries & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-### 🛠 Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-</p>
-
----
-
-## 🌌 Projects Worthy of the Shogun
-
-### 📝 Automatic Billing System `YOLOv5 + OpenCV + PyTorch`
-> "Like Elizabeth scanning Katsura's receipts, but smarter."
-- Detects groceries using YOLOv5 from live video
-- Generates automated bills via object recognition
-- Product-price matching with CSV backend
-- Frame-wise OpenCV overlays and exportable receipts
-
-### 😈 Deepfake Generation & Detection `GAN + CNN`
-> "If Gintoki can impersonate the Shogun, so can my AI."
-- Built a custom GAN from scratch (no StyleGAN shortcuts)
-- Facial mapping with MediaPipe + Delaunay + seamless cloning
-- CNN-based deepfake detector trained with hybrid dataset
-
----
-
-### ❤️ Fun Fact
-> My code may have fewer bugs than Kagura's appetite, but it still crashes occasionally... just like Gintoki's scooter.
-
----
-
-<p align="center">
-  <i>"The night is darkest just before the sunrise. But that's exactly when Gintama gets funnier."</i>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/YdcZLrQQEDoAAAAC/gintama-gintoki.gif" width="220" />
-</p>
+<div align="center">
+  <i>"The best way to predict the future is to build it with code"</i>
+</div>
