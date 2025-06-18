@@ -1,5 +1,13 @@
 # Hi there! 👋 I'm Siddhant Roy
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Computer+Vision+Developer+%F0%9F%91%81%EF%B8%8F;Backend+Engineer+%E2%9A%99%EF%B8%8F;Gintama+Fan+%F0%9F%8D%9C" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+</div>
+
 ## 🚀 About Me
 
 **AI & ML Enthusiast | Computer Vision Developer | Backend Engineer**
@@ -18,15 +26,20 @@ I'm a B.Tech ECE student with a Minor in AI & ML from JIIT Noida, passionate abo
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp" alt="Languages" />
+</div>
 
 ### AI/ML & Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI/ML" />
+</div>
+
+### Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker" alt="Tools" />
+  <img src="https://img.shields.io/badge/YOLO-00D4AA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjIgOFYxNkwxMiAyMkwyIDEyVjhMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMiA4TDE4IDEyTDEyIDE2TDYgMTJMMTIgOFoiIGZpbGw9IiMwMEQ0QUEiLz4KPHN2Zz4=&logoColor=white" alt="YOLO" />
+</div>
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,12 +65,29 @@ I'm a B.Tech ECE student with a Minor in AI & ML from JIIT Noida, passionate abo
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roy-sid&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-sid&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+  <!-- Main Stats Row -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roy-sid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-sid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roy-sid&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roy-sid&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roy-sid&theme=tokyo-night&hide_border=true&area=true" />
+  
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Writing%20code%20is%20like%20Gintoki's%20way%20of%20life%20-%20unpredictable,%20occasionally%20brilliant,%20and%20somehow%20it%20all%20works%20out%20in%20the%20end.&author=Siddhant%20Roy" />
 </div>
 
 ## 🎯 Current Focus
@@ -77,19 +107,29 @@ I'm a B.Tech ECE student with a Minor in AI & ML from JIIT Noida, passionate abo
 ## 📫 Let's Connect!
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-roy-6602b0213/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddhant_roy_/)
-
+  <a href="https://www.linkedin.com/in/siddhant-roy-6602b0213/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
+  </a>
+  <a href="mailto:roysiddhant2003@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/siddhant_roy_/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" alt="Instagram" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=roy-sid&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=roy-sid&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/roy-sid?color=58A6FF&style=for-the-badge&label=Followers" alt="Followers" />
 </div>
 
 <div align="center">
-  <i>"The best way to predict the future is to build it with code"</i>
+  
+```
+"Code is like sugar... it makes everything better, just like Gintoki's strawberry milk!"
+                                          - Probably what Gintoki would say if he coded
+```
+  
 </div>
